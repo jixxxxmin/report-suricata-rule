@@ -1,0 +1,211 @@
+05/16/2024-00:21:31.268851  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60902 -> 180.67.148.140:80
+05/16/2024-00:21:31.524742  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60922 -> 180.67.148.140:80
+05/16/2024-00:21:31.709081  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60914 -> 180.67.148.140:80
+05/16/2024-00:21:32.255170  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60902 -> 180.67.148.140:80
+05/16/2024-00:21:32.295895  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60902 -> 180.67.148.140:80
+05/16/2024-00:21:32.296763  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60914 -> 180.67.148.140:80
+05/16/2024-01:13:46.816842  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37712 -> 180.67.148.140:80
+05/16/2024-01:13:47.086705  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37722 -> 180.67.148.140:80
+05/16/2024-01:13:47.287057  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37712 -> 180.67.148.140:80
+05/16/2024-01:13:47.893105  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37712 -> 180.67.148.140:80
+05/16/2024-01:13:47.939432  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37712 -> 180.67.148.140:80
+05/16/2024-01:14:02.946460  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51280 -> 52.18.144.254:80
+05/16/2024-01:20:45.455903  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49046 -> 44.242.13.161:80
+05/16/2024-01:20:58.222087  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53708 -> 223.130.200.236:80
+05/16/2024-01:22:31.515845  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47132 -> 223.130.192.247:80
+05/16/2024-01:28:19.741213  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33022 -> 180.67.148.140:80
+05/16/2024-01:28:20.141800  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33026 -> 180.67.148.140:80
+05/16/2024-01:28:20.303233  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33022 -> 180.67.148.140:80
+05/16/2024-01:28:20.809051  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33022 -> 180.67.148.140:80
+05/16/2024-01:28:20.850497  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33022 -> 180.67.148.140:80
+05/16/2024-01:28:20.852185  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39090 -> 180.67.148.140:80
+05/16/2024-01:28:20.906702  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39182 -> 180.67.148.140:80
+05/16/2024-01:28:20.907011  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39208 -> 180.67.148.140:80
+05/16/2024-01:28:20.906576  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39198 -> 180.67.148.140:80
+05/16/2024-01:42:06.405778  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54078 -> 180.67.148.140:80
+05/16/2024-01:42:06.731269  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54084 -> 180.67.148.140:80
+05/16/2024-01:42:07.011657  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54078 -> 180.67.148.140:80
+05/16/2024-01:42:07.577387  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54078 -> 180.67.148.140:80
+05/16/2024-01:42:07.681763  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54078 -> 180.67.148.140:80
+05/16/2024-01:42:07.696992  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54134 -> 180.67.148.140:80
+05/16/2024-01:47:50.963277  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57618 -> 180.67.148.140:80
+05/16/2024-01:47:51.169302  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52380 -> 180.67.148.140:80
+05/16/2024-01:47:51.374821  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57618 -> 180.67.148.140:80
+05/16/2024-01:47:51.947218  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57618 -> 180.67.148.140:80
+05/16/2024-01:47:51.998765  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57618 -> 180.67.148.140:80
+05/16/2024-01:47:54.739143  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52394 -> 180.67.148.140:80
+05/16/2024-01:48:16.679140  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54548 -> 180.67.148.140:80
+05/16/2024-01:48:17.145695  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54554 -> 180.67.148.140:80
+05/16/2024-01:48:17.316890  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54548 -> 180.67.148.140:80
+05/16/2024-01:48:17.864849  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54548 -> 180.67.148.140:80
+05/16/2024-01:48:17.904723  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54548 -> 180.67.148.140:80
+05/16/2024-01:54:24.459342  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48888 -> 52.38.7.83:80
+05/16/2024-01:54:42.612615  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59326 -> 52.18.144.254:80
+05/16/2024-01:54:52.696504  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54120 -> 223.130.200.236:80
+05/16/2024-01:56:59.741316  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41788 -> 223.130.200.236:80
+05/16/2024-01:56:59.778237  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39604 -> 23.36.220.148:80
+05/16/2024-01:57:20.267227  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34382 -> 223.130.200.236:80
+05/16/2024-01:57:20.285817  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50642 -> 23.36.220.148:80
+05/16/2024-01:57:27.542382  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60226 -> 52.18.144.254:80
+05/16/2024-01:57:42.392375  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39128 -> 142.250.206.227:443
+05/16/2024-01:57:42.429178  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39138 -> 142.250.206.227:443
+05/16/2024-01:57:42.501617  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39152 -> 142.250.206.227:443
+05/16/2024-01:57:42.572916  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39158 -> 142.250.206.227:443
+05/16/2024-01:57:42.649322  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39166 -> 142.250.206.227:443
+05/16/2024-01:57:42.720026  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39172 -> 142.250.206.227:443
+05/16/2024-01:57:42.780363  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39188 -> 142.250.206.227:443
+05/16/2024-01:57:42.849787  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39194 -> 142.250.206.227:443
+05/16/2024-01:57:42.925775  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39202 -> 142.250.206.227:443
+05/16/2024-01:57:42.997552  [**] [1:10005:1] google.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39204 -> 142.250.206.227:443
+05/16/2024-02:03:26.668001  [**] [1:10006:1] 443 google.co.kr  Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44722 -> 142.250.207.99:443
+05/16/2024-02:03:27.724276  [**] [1:10006:1] 443 google.co.kr  Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36366 -> 142.250.206.238:443
+05/16/2024-02:03:33.177276  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45466 -> 23.36.220.148:443
+05/16/2024-02:03:34.114073  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37044 -> 110.93.151.131:443
+05/16/2024-02:03:34.136590  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45476 -> 23.36.220.148:443
+05/16/2024-02:03:34.141905  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45480 -> 23.36.220.148:443
+05/16/2024-02:03:34.141908  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45478 -> 23.36.220.148:443
+05/16/2024-02:03:34.166465  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58392 -> 202.179.178.29:443
+05/16/2024-02:03:34.349812  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41722 -> 223.130.192.205:443
+05/16/2024-02:03:34.422138  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33694 -> 210.89.168.73:443
+05/16/2024-02:03:34.421122  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33710 -> 210.89.168.73:443
+05/16/2024-02:03:34.526719  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34334 -> 110.93.151.162:443
+05/16/2024-02:03:34.526737  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34354 -> 110.93.151.162:443
+05/16/2024-02:03:34.534050  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34358 -> 110.93.151.162:443
+05/16/2024-02:03:34.535729  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34346 -> 110.93.151.162:443
+05/16/2024-02:03:34.536823  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34344 -> 110.93.151.162:443
+05/16/2024-02:03:34.538566  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34326 -> 110.93.151.162:443
+05/16/2024-02:03:34.613900  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41726 -> 223.130.192.205:443
+05/16/2024-02:03:34.621047  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41740 -> 223.130.192.205:443
+05/16/2024-02:03:34.813040  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52012 -> 210.89.168.79:443
+05/16/2024-02:03:34.814104  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52004 -> 210.89.168.79:443
+05/16/2024-02:08:02.546995  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33022 -> 23.36.220.148:443
+05/16/2024-02:08:03.203462  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56174 -> 110.93.154.72:443
+05/16/2024-02:08:03.224362  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:35928 -> 110.93.151.56:443
+05/16/2024-02:08:03.239989  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46606 -> 110.93.151.162:443
+05/16/2024-02:08:03.266215  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54590 -> 210.89.168.70:443
+05/16/2024-02:08:03.389832  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51094 -> 223.130.192.205:443
+05/16/2024-02:08:03.774611  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51106 -> 223.130.192.205:443
+05/16/2024-02:08:03.943542  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48304 -> 210.89.168.79:443
+05/16/2024-02:08:05.539835  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33030 -> 23.36.220.148:443
+05/16/2024-02:08:05.539835  [**] [1:10007:1] 443 webtoom.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33030 -> 23.36.220.148:443
+05/16/2024-02:08:05.646914  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36648 -> 202.179.178.29:443
+05/16/2024-02:08:06.454117  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34988 -> 125.209.226.239:443
+05/16/2024-02:08:13.730171  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53274 -> 23.36.220.148:443
+05/16/2024-02:08:18.930021  [**] [1:10008:1] 80 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:32768 -> 211.249.220.24:80
+05/16/2024-02:08:19.006690  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44110 -> 121.53.105.193:443
+05/16/2024-02:08:19.183158  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55642 -> 211.249.220.24:443
+05/16/2024-02:08:19.658646  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43534 -> 121.53.105.132:443
+05/16/2024-02:08:19.659775  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43524 -> 121.53.105.132:443
+05/16/2024-02:08:19.817261  [**] [1:10008:1] 80 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45262 -> 211.249.219.23:80
+05/16/2024-02:08:19.881782  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43892 -> 211.231.99.14:443
+05/16/2024-02:08:19.890438  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43882 -> 211.231.99.14:443
+05/16/2024-02:08:20.400193  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54926 -> 211.249.200.132:443
+05/16/2024-02:08:20.401516  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54910 -> 211.249.200.132:443
+05/16/2024-02:08:20.413069  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54934 -> 211.249.200.132:443
+05/16/2024-02:08:20.413103  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54900 -> 211.249.200.132:443
+05/16/2024-02:08:20.413143  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52766 -> 121.53.105.246:443
+05/16/2024-02:08:20.493784  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54942 -> 211.249.200.132:443
+05/16/2024-02:08:20.497346  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52364 -> 211.231.99.14:443
+05/16/2024-02:08:20.565519  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52376 -> 211.231.99.14:443
+05/16/2024-02:08:20.661980  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52382 -> 211.231.99.14:443
+05/16/2024-02:08:21.024252  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52384 -> 211.231.99.14:443
+05/16/2024-02:08:22.278004  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54950 -> 211.249.200.132:443
+05/16/2024-02:08:22.489464  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60676 -> 121.53.89.30:443
+05/16/2024-02:08:34.385173  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59524 -> 211.249.220.24:443
+05/16/2024-02:08:35.199380  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41528 -> 211.231.99.14:443
+05/16/2024-02:08:35.269872  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41542 -> 211.231.99.14:443
+05/16/2024-02:08:35.737728  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41558 -> 211.231.99.14:443
+05/16/2024-02:08:35.828451  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41572 -> 211.231.99.14:443
+05/16/2024-02:08:35.900297  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51586 -> 211.249.200.132:443
+05/16/2024-02:08:35.925549  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51600 -> 211.249.200.132:443
+05/16/2024-02:08:36.000241  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41576 -> 211.231.99.14:443
+05/16/2024-02:08:36.094459  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51608 -> 211.249.200.132:443
+05/16/2024-02:08:36.096247  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51610 -> 211.249.200.132:443
+05/16/2024-02:08:36.107467  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51622 -> 211.249.200.132:443
+05/16/2024-02:08:36.168447  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41586 -> 211.231.99.14:443
+05/16/2024-02:08:37.672227  [**] [1:10009:1] 443 daum.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51630 -> 211.249.200.132:443
+05/16/2024-02:08:41.263733  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52538 -> 23.36.220.148:443
+05/16/2024-02:08:43.556955  [**] [1:10004:1] 80 naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59804 -> 223.130.200.219:80
+05/16/2024-02:08:44.861105  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39930 -> 223.130.192.205:443
+05/16/2024-02:08:45.506688  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39940 -> 223.130.192.205:443
+05/16/2024-02:08:45.519708  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39954 -> 223.130.192.205:443
+05/16/2024-02:10:26.829146  [**] [1:10010:1] 443 youtube.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50580 -> 142.250.207.14:443
+05/16/2024-02:10:27.342899  [**] [1:10010:1] 443 youtube.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46012 -> 142.250.206.206:443
+05/16/2024-02:10:27.873726  [**] [1:10010:1] 443 youtube.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50592 -> 142.250.207.14:443
+05/16/2024-02:10:30.394224  [**] [1:10006:1] 443 google.co.kr  Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51736 -> 142.250.207.99:443
+05/16/2024-02:10:36.032290  [**] [1:10010:1] 443 youtube.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56292 -> 172.217.25.174:443
+05/16/2024-02:12:18.910153  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34938 -> 180.67.148.140:80
+05/16/2024-02:12:18.910153  [**] [1:10011:1] 80 test.gilgil.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34938 -> 180.67.148.140:80
+05/16/2024-02:12:18.991065  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34922 -> 180.67.148.140:80
+05/16/2024-02:12:18.991065  [**] [1:10011:1] 80 test.gilgil.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34922 -> 180.67.148.140:80
+05/16/2024-02:13:55.398460  [**] [1:10006:1] 443 google.co.kr  Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46148 -> 142.250.207.99:443
+05/16/2024-02:14:04.793811  [**] [1:10012:1] 443 github.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45292 -> 20.200.245.247:443
+05/16/2024-02:14:04.907411  [**] [1:10012:1] 443 github.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45298 -> 20.200.245.247:443
+05/16/2024-02:24:19.474487  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59506 -> 210.89.168.67:443
+05/16/2024-02:24:19.474487  [**] [1:10013:1] 443 papago.naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59506 -> 210.89.168.67:443
+05/16/2024-02:24:20.056150  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44142 -> 202.179.178.29:443
+05/16/2024-02:24:20.205894  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49570 -> 125.209.226.239:443
+05/16/2024-02:24:26.708365  [**] [1:10014:1] 443 acmicpc.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52654 -> 54.248.14.122:443
+05/16/2024-02:24:26.792917  [**] [1:10014:1] 443 acmicpc.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52658 -> 54.248.14.122:443
+05/16/2024-02:24:27.900392  [**] [1:10014:1] 443 acmicpc.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42224 -> 18.64.8.108:443
+05/16/2024-02:24:27.902067  [**] [1:10014:1] 443 acmicpc.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42222 -> 18.64.8.108:443
+05/16/2024-02:24:27.903431  [**] [1:10014:1] 443 acmicpc.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42214 -> 18.64.8.108:443
+05/16/2024-02:24:27.923185  [**] [1:10014:1] 443 acmicpc.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42230 -> 18.64.8.108:443
+05/16/2024-02:24:31.448244  [**] [1:10015:1] 443 store.steampowered.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58690 -> 23.65.54.200:443
+05/16/2024-02:24:33.262277  [**] [1:10015:1] 443 store.steampowered.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58702 -> 23.65.54.200:443
+05/16/2024-02:24:33.270085  [**] [1:10015:1] 443 store.steampowered.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58710 -> 23.65.54.200:443
+05/16/2024-02:24:33.269826  [**] [1:10015:1] 443 store.steampowered.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58726 -> 23.65.54.200:443
+05/16/2024-02:28:06.185159  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54696 -> 23.210.36.147:443
+05/16/2024-02:28:07.186212  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34872 -> 110.93.154.72:443
+05/16/2024-02:28:07.241006  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54708 -> 23.210.36.147:443
+05/16/2024-02:28:07.243705  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54720 -> 23.210.36.147:443
+05/16/2024-02:28:07.246248  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54710 -> 23.210.36.147:443
+05/16/2024-02:28:07.248623  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53448 -> 110.93.151.56:443
+05/16/2024-02:28:07.317877  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50202 -> 210.89.168.38:443
+05/16/2024-02:28:07.327025  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50214 -> 210.89.168.38:443
+05/16/2024-02:28:07.420440  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34402 -> 223.130.192.205:443
+05/16/2024-02:28:07.649688  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48024 -> 110.93.151.162:443
+05/16/2024-02:28:07.653664  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48054 -> 110.93.151.162:443
+05/16/2024-02:28:07.656282  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48052 -> 110.93.151.162:443
+05/16/2024-02:28:07.656295  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48040 -> 110.93.151.162:443
+05/16/2024-02:28:07.686842  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48076 -> 110.93.151.162:443
+05/16/2024-02:28:07.707196  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48062 -> 110.93.151.162:443
+05/16/2024-02:28:08.088315  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47104 -> 210.89.168.79:443
+05/16/2024-02:28:08.088781  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47090 -> 210.89.168.79:443
+05/16/2024-02:28:08.228059  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34420 -> 223.130.192.205:443
+05/16/2024-02:28:08.230903  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34404 -> 223.130.192.205:443
+05/16/2024-02:28:09.131052  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54732 -> 23.210.36.147:443
+05/16/2024-02:28:09.131052  [**] [1:10017:1] 443 naver.news.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54732 -> 23.210.36.147:443
+05/16/2024-02:28:09.273940  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44466 -> 202.179.178.29:443
+05/16/2024-02:28:10.006411  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52780 -> 175.158.5.165:443
+05/16/2024-02:28:10.006411  [**] [1:10017:1] 443 naver.news.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52780 -> 175.158.5.165:443
+05/16/2024-02:28:10.069433  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:35982 -> 223.130.195.167:443
+05/16/2024-02:28:22.777114  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52164 -> 137.220.120.57:443
+05/16/2024-02:28:23.026576  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52172 -> 137.220.120.57:443
+05/16/2024-02:28:24.241603  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52184 -> 137.220.120.57:443
+05/16/2024-02:28:24.273841  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49082 -> 178.162.136.155:443
+05/16/2024-02:28:24.511328  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52200 -> 137.220.120.57:443
+05/16/2024-02:28:24.524994  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49088 -> 178.162.136.155:443
+05/16/2024-02:28:25.119222  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52212 -> 137.220.120.57:443
+05/16/2024-02:28:25.369123  [**] [1:10018:1] 443 /sqlzoo.net Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52224 -> 137.220.120.57:443
+05/16/2024-02:31:34.087301  [**] [1:10005:1] 443 naver.com Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37160 -> 23.210.36.147:443
+05/16/2024-02:31:38.164455  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41278 -> 168.126.27.83:4016
+05/16/2024-02:31:38.170389  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41274 -> 168.126.27.83:4016
+05/16/2024-02:31:38.180141  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41284 -> 168.126.27.83:4016
+05/16/2024-02:31:38.189706  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41298 -> 168.126.27.83:4016
+05/16/2024-02:31:38.197748  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41304 -> 168.126.27.83:4016
+05/16/2024-02:31:38.205202  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41320 -> 168.126.27.83:4016
+05/16/2024-02:31:38.215259  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41332 -> 168.126.27.83:4016
+05/16/2024-02:31:38.224914  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41344 -> 168.126.27.83:4016
+05/16/2024-02:31:38.233480  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41352 -> 168.126.27.83:4016
+05/16/2024-02:31:38.251650  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41354 -> 168.126.27.83:4016
+05/16/2024-02:31:42.488327  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36514 -> 168.126.27.83:4016
+05/16/2024-02:31:42.495775  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36516 -> 168.126.27.83:4016
+05/16/2024-02:31:42.502737  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36532 -> 168.126.27.83:4016
+05/16/2024-02:31:42.512683  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36542 -> 168.126.27.83:4016
+05/16/2024-02:31:42.519128  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36546 -> 168.126.27.83:4016
+05/16/2024-02:31:42.524925  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36560 -> 168.126.27.83:4016
+05/16/2024-02:31:42.539006  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36566 -> 168.126.27.83:4016
+05/16/2024-02:31:42.547715  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36576 -> 168.126.27.83:4016
+05/16/2024-02:31:42.554047  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36590 -> 168.126.27.83:4016
+05/16/2024-02:31:42.561719  [**] [1:10020:1] 4016 nis.go.kr Access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36602 -> 168.126.27.83:4016
