@@ -5,4 +5,4 @@
 - 평문 통신(HTTP)이 이루어 지는 사이트 뿐만 아니라 TLS 통신(HTTPS)을 하는 사이트에 대한 탐지 구현
 
   (+) http : alert tcp any any -> any 80 (msg:"80 naver.com access"; content:"GET /"; content:"Host: "; content:"naver.com"; sid:10004; rev:1;)
-      https : alert tcp any any -> any 443 (msg:"443 naver.com Access"; flow:to_server,established; tls_sni; content:"naver.com"; sid:10005; rev:1;)
+  (+) https : alert tcp any any -> any 443 (msg:"443 naver.com Access"; flow:to_server,established; tls_sni; content:"naver.com"; sid:10005; rev:1;)
