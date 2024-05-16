@@ -1,4 +1,4 @@
-#snort(suricata) rule 파일을 제작해 특정 사이트 트래픽 탐지
+#Snort(suricata) rule 파일을 제작해 특정 사이트 트래픽 탐지
 
 - test.rules 파일에 20개의 사이트를 탐지하는 룰 제작
 - fast.log를 확인하면서 20개의 사이트가 제대로 탐지되는지 확인(rules 파일내의 모든 sid가 fast.log파일에 대한 모든 사이트의 로그 존재)
