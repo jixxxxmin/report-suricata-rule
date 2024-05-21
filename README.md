@@ -7,3 +7,7 @@
   (+) http : alert tcp any any -> any 80 (msg:"80 naver.com access"; content:"GET /"; content:"Host: "; content:"naver.com"; sid:10004; rev:1;)
 
   (+) https : alert tcp any any -> any 443 (msg:"443 naver.com Access"; flow:to_server,established; tls_sni; content:"naver.com"; sid:10005; rev:1;)
+
+  (+) tls_sni : Client Hello
+
+  (+) established : 정확하게 일치하는 경우에만!
