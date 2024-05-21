@@ -17,5 +17,5 @@ alert tcp any any -> any 443 (msg:"443 naver.map.com Access"; flow:to_server, es
 alert tcp any any -> any 443 (msg:"443 naver.news.com Access"; flow:to_server, established; tls_sni; content:"news.naver.com"; sid:10017; rev:1;)
 alert tcp any any -> any 443 (msg:"443 /sqlzoo.net Access"; flow:to_server, established; tls_sni; content:"sqlzoo.net"; sid:10018; rev:1;)
 alert tcp any any -> any 80 (msg:"80 molit.go.kr Access"; content:"GET /"; content:"Host: "; content:" molit.go.kr"; sid:10019; rev:1;)
-alert tcp any any -> any 4016 (msg:"4016 nis.go.kr Access"; content:"GET /"; content:"Host: "; content:" nis.go.kr"; sid:10020; rev:1;)
+alert tcp any any -> any 4016 (msg:"4016 nis.go.kr Access"; content:"GET /"; content:"Host: "; tls_sni; content:" nis.go.kr"; sid:10020; rev:1;)
 
